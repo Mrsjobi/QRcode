@@ -1,6 +1,9 @@
-body{
-    width: 1440px;
+
+.container{
+    height: 550px;
+    width: 900px;
     background-color: #d5e1ef;
+    box-shadow: inset;
 }
 img{
     border-radius: 10px;
@@ -8,9 +11,9 @@ img{
     height: 230px;
     margin-top: 10px;
     margin-left: 10px;
-    
-   
 }
+
+
 div{
     background-color: white;
     height: 400px;
@@ -18,6 +21,7 @@ div{
     margin: auto;
     margin-top: 50px;
     border-radius: 10px;
+    padding-top: 10px;
 }
 
 h3{
