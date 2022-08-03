@@ -1,0 +1,31 @@
+body{
+    width: 1440px;
+    background-color: #d5e1ef;
+}
+img{
+    border-radius: 10px;
+    width: 230px;
+    height: 230px;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+   
+}
+div{
+    background-color: white;
+    height: 400px;
+    width: 250px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-weight: lighter;
+    color: #babec5;
+}
